@@ -15,7 +15,7 @@ This repository contains the full implementation of the Dining Philosophers prob
 - Includes formal deadlock detection monitor
 - Verified using P checker
 
-📁 See: [`P_vesion/README.md`](./P_version/README.md)
+📁 See: [`P_version/README.md`](./P_version/README.md)
 
 ---
 
