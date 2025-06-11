@@ -1,0 +1,42 @@
+2025.06.06 03:09:49 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\HP\Desktop\Dining_philosophers_problem' for client Visual Studio Code 1.100.3.
+2025.06.06 03:09:51 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\built.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:09:54 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\built.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:09:54 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\built.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+juin 06, 2025 3:09:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2025.06.06 03:09:57 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\built.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:09:57 WARN  Could not find semantic tokens for: file:///C:/Users/HP/Desktop/Dining_philosophers_problem/akka/built.sbt
+2025.06.06 03:09:57 WARN  no build target for: C:\Users\HP\Desktop\Dining_philosophers_problem\akka\built.sbt
+2025.06.06 03:09:57 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\built.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:09:58 WARN  Could not find semantic tokens for: file:///C:/Users/HP/Desktop/Dining_philosophers_problem/akka/built.sbt
+2025.06.06 03:10:22 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Fork.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:22 WARN  no build target for: C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Fork.scala
+2025.06.06 03:10:22 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Fork.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:23 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Fork.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:22 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Fork.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:24 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:25 WARN  no build target for: C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Main.scala
+2025.06.06 03:10:25 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:25 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:25 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:28 WARN  no build target for: C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala
+2025.06.06 03:10:28 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:28 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:28 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:10:32 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:16:47 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:16:48 INFO  Shutting down server
+2025.06.06 03:16:48 INFO  shutting down Metals
+2025.06.06 03:16:48 INFO  Exiting server
+2025.06.06 03:17:37 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\HP\Desktop\Dining_philosophers_problem' for client Visual Studio Code 1.100.3.
+2025.06.06 03:17:39 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:17:43 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:17:54 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:17:54 WARN  no build target for: C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala
+2025.06.06 03:17:54 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:17:54 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 03:17:57 INFO  time: code lens generation in 3.34s
+2025.06.06 03:42:13 INFO  no build target found for C:\Users\HP\Desktop\Dining_philosophers_problem\akka\src\main\scala\dining\Philosopher.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.06 04:45:18 INFO  Shutting down server
+2025.06.06 04:45:18 INFO  shutting down Metals
+2025.06.06 04:45:18 INFO  Exiting server
